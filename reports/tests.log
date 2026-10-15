@@ -1,0 +1,40 @@
+test_atomic_save_failure_preserves_old_file (test_helpers.HelpersTests.test_atomic_save_failure_preserves_old_file) ... ok
+test_atomic_save_race_does_not_overwrite (test_helpers.HelpersTests.test_atomic_save_race_does_not_overwrite) ... ok
+test_commutator (test_helpers.HelpersTests.test_commutator) ... ok
+test_continuous_normalization (test_helpers.HelpersTests.test_continuous_normalization) ... ok
+test_dagger (test_helpers.HelpersTests.test_dagger) ... ok
+test_discrete_normalization (test_helpers.HelpersTests.test_discrete_normalization) ... ok
+test_eigensystem (test_helpers.HelpersTests.test_eigensystem) ... ok
+test_expectation (test_helpers.HelpersTests.test_expectation) ... ok
+test_extreme_hbar_scaling (test_helpers.HelpersTests.test_extreme_hbar_scaling) ... ok
+test_floating_point_range_errors (test_helpers.HelpersTests.test_floating_point_range_errors) ... ok
+test_hermitian (test_helpers.HelpersTests.test_hermitian) ... ok
+test_integral_and_broadcast (test_helpers.HelpersTests.test_integral_and_broadcast) ... ok
+test_invalid_scalar_and_selector_types (test_helpers.HelpersTests.test_invalid_scalar_and_selector_types) ... ok
+test_matrix_exponential (test_helpers.HelpersTests.test_matrix_exponential) ... ok
+test_narrow_pulse_and_max_step (test_helpers.HelpersTests.test_narrow_pulse_and_max_step) ... ok
+test_plots_and_style_restore (test_helpers.HelpersTests.test_plots_and_style_restore) ... ok
+test_scale_independent_hermitian_validation (test_helpers.HelpersTests.test_scale_independent_hermitian_validation) ... ok
+test_solver_errors (test_helpers.HelpersTests.test_solver_errors) ... ok
+test_subnormal_and_large_complex_states (test_helpers.HelpersTests.test_subnormal_and_large_complex_states) ... ok
+test_time_dependent (test_helpers.HelpersTests.test_time_dependent) ... ok
+test_time_origin_hbar_and_shape (test_helpers.HelpersTests.test_time_origin_hbar_and_shape) ... ok
+test_critical_and_overdamped_dephasing (test_physics.PhysicsTests.test_critical_and_overdamped_dephasing) ... ok
+test_detuned_rabi_amplitude_and_pi_pulse (test_physics.PhysicsTests.test_detuned_rabi_amplitude_and_pi_pulse) ... ok
+test_expm_ode (test_physics.PhysicsTests.test_expm_ode) ... ok
+test_finite_commutator_boundary (test_physics.PhysicsTests.test_finite_commutator_boundary) ... ok
+test_invalid_physical_parameters (test_physics.PhysicsTests.test_invalid_physical_parameters) ... ok
+test_second_order_grid (test_physics.PhysicsTests.test_second_order_grid) ... ok
+test_stationary_energies_parity_and_nodes (test_physics.PhysicsTests.test_stationary_energies_parity_and_nodes) ... ok
+test_tensor_dimensions_and_subsystem (test_physics.PhysicsTests.test_tensor_dimensions_and_subsystem) ... ok
+test_thermal_small_cutoff_is_not_infinite_distribution (test_physics.PhysicsTests.test_thermal_small_cutoff_is_not_infinite_distribution) ... ok
+test_thermal_vacuum_and_convergence (test_physics.PhysicsTests.test_thermal_vacuum_and_convergence) ... ok
+test_tutorial001_002 (test_physics.PhysicsTests.test_tutorial001_002) ... D:\Master.s-work\Software-needed-for-master.s-work\python\main\Lib\site-packages\qutip\core\coefficient.py:426: UserWarning: `cython`, `setuptools` and `filelock` are required for compilation of string coefficents. Falling back on `eval`.
+  warnings.warn(
+ok
+test_tutorial003_physicality (test_physics.PhysicsTests.test_tutorial003_physicality) ... ok
+
+----------------------------------------------------------------------
+Ran 33 tests in 1.939s
+
+OK

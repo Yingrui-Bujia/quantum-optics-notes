@@ -1,0 +1,169 @@
+{
+  "rabi_resonant": {
+    "population_error": 1.6653345369377348e-15,
+    "sigma_z_error": 2.6645352591003757e-15,
+    "norm_drift": 1.7763568394002505e-15
+  },
+  "rabi_detuned": {
+    "population_error": 7.563394355258879e-16,
+    "sigma_z_error": 2.1094237467877974e-15,
+    "norm_drift": 8.881784197001252e-16
+  },
+  "zero_point": {
+    "states": [
+      {
+        "n": 0,
+        "quadrature_squared": 1.0,
+        "expected": 1,
+        "energy": 0.5,
+        "x_variance": 0.4999999999999999,
+        "p_variance": 0.4999999999999999
+      },
+      {
+        "n": 1,
+        "quadrature_squared": 3.0000000000000004,
+        "expected": 3,
+        "energy": 1.5,
+        "x_variance": 1.5,
+        "p_variance": 1.5
+      },
+      {
+        "n": 2,
+        "quadrature_squared": 5.0,
+        "expected": 5,
+        "energy": 2.5000000000000004,
+        "x_variance": 2.5,
+        "p_variance": 2.5
+      },
+      {
+        "n": 3,
+        "quadrature_squared": 7.0,
+        "expected": 7,
+        "energy": 3.4999999999999996,
+        "x_variance": 3.499999999999999,
+        "p_variance": 3.499999999999999
+      },
+      {
+        "n": 4,
+        "quadrature_squared": 9.0,
+        "expected": 9,
+        "energy": 4.5,
+        "x_variance": 4.499999999999999,
+        "p_variance": 4.499999999999999
+      },
+      {
+        "n": 5,
+        "quadrature_squared": 11.0,
+        "expected": 11,
+        "energy": 5.500000000000001,
+        "x_variance": 5.499999999999998,
+        "p_variance": 5.499999999999998
+      }
+    ],
+    "cutoff": 20,
+    "finite_commutator_identity_error": 0.0,
+    "top_state_actual": 19.000000000000004,
+    "top_state_infinite_formula": 39,
+    "vacuum_energy": 0.5,
+    "vacuum_variance_product": 0.2499999999999999
+  },
+  "thermal": {
+    "cutoff": 100,
+    "nbar_infinite": 3.0,
+    "omitted_probability": 3.207202185381504e-13,
+    "operator_trace": 0.9999999999999998,
+    "analytic_trace": 0.999999999999679,
+    "operator_vs_conditioned_max_error": 1.1102230246251565e-16,
+    "analytic_vs_infinite_max_error": 0.0,
+    "mean_number": 2.999999999967929,
+    "mean_number_error": 3.207079046774197e-11,
+    "mean_vs_truncated_formula_error": 1.3322676295501878e-15,
+    "minimum_eigenvalue": 1.0690673951275201e-13
+  },
+  "thermal_convergence": [
+    {
+      "cutoff": 20,
+      "nbar_infinite": 3.0,
+      "omitted_probability": 0.0031712119389339932,
+      "operator_trace": 0.9999999999999999,
+      "analytic_trace": 0.996828788061066,
+      "operator_vs_conditioned_max_error": 1.1102230246251565e-16,
+      "analytic_vs_infinite_max_error": 0.0,
+      "mean_number": 2.9363739896576964,
+      "mean_number_error": 0.06362601034230364,
+      "mean_vs_truncated_formula_error": 4.440892098500626e-16,
+      "minimum_eigenvalue": 0.00106043350570507
+    },
+    {
+      "cutoff": 40,
+      "nbar_infinite": 3.0,
+      "omitted_probability": 1.0056585161637497e-05,
+      "operator_trace": 0.9999999999999999,
+      "analytic_trace": 0.9999899434148382,
+      "operator_vs_conditioned_max_error": 5.551115123125783e-17,
+      "analytic_vs_infinite_max_error": 0.0,
+      "mean_number": 2.9995977325480987,
+      "mean_number_error": 0.00040226745190130586,
+      "mean_vs_truncated_formula_error": 8.881784197001252e-16,
+      "minimum_eigenvalue": 3.3522287658532386e-06
+    },
+    {
+      "cutoff": 80,
+      "nbar_infinite": 3.0,
+      "omitted_probability": 1.0113490511326748e-10,
+      "operator_trace": 1.0000000000000007,
+      "analytic_trace": 0.9999999998988648,
+      "operator_vs_conditioned_max_error": 5.551115123125783e-17,
+      "analytic_vs_infinite_max_error": 0.0,
+      "mean_number": 2.9999999919092093,
+      "mean_number_error": 8.090790704073925e-09,
+      "mean_vs_truncated_formula_error": 1.7763568394002505e-15,
+      "minimum_eigenvalue": 3.371163504116545e-11
+    },
+    {
+      "cutoff": 100,
+      "nbar_infinite": 3.0,
+      "omitted_probability": 3.207202185381504e-13,
+      "operator_trace": 0.9999999999999998,
+      "analytic_trace": 0.999999999999679,
+      "operator_vs_conditioned_max_error": 1.1102230246251565e-16,
+      "analytic_vs_infinite_max_error": 0.0,
+      "mean_number": 2.999999999967929,
+      "mean_number_error": 3.207079046774197e-11,
+      "mean_vs_truncated_formula_error": 1.3322676295501878e-15,
+      "minimum_eigenvalue": 1.0690673951275201e-13
+    }
+  ],
+  "tensor": {
+    "shape": [
+      12,
+      1
+    ],
+    "dims": [
+      [
+        6,
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "mode_number": 2.0000000000000004,
+    "qubit_sigma_z": -1.0,
+    "partial_trace_error": 0.0
+  },
+  "lab_frame": [
+    {
+      "omega0_over_Omega": 10.0,
+      "max_population_error_vs_RWA": 0.02679189921744851
+    },
+    {
+      "omega0_over_Omega": 20.0,
+      "max_population_error_vs_RWA": 0.012949262203955092
+    },
+    {
+      "omega0_over_Omega": 40.0,
+      "max_population_error_vs_RWA": 0.006359173798258455
+    }
+  ]
+}

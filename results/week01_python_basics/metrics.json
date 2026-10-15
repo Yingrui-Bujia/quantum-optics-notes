@@ -1,0 +1,33 @@
+{
+  "squares_1_to_10": [
+    1,
+    4,
+    9,
+    16,
+    25,
+    36,
+    49,
+    64,
+    81,
+    100
+  ],
+  "broadcast": [
+    [
+      11,
+      22,
+      33
+    ],
+    [
+      14,
+      25,
+      36
+    ]
+  ],
+  "sigma_x_eigenvalues": [
+    -1.0,
+    1.0
+  ],
+  "integral_x2_0_1": 0.33333333333333326,
+  "classical_position_max_error": 1.841254926304714e-10,
+  "classical_energy_max_drift": 1.9065382605987224e-10
+}

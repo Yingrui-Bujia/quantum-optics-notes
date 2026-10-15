@@ -1,0 +1,111 @@
+{
+  "status": "passed",
+  "python_executable_unchanged": true,
+  "installed_package_count": 114,
+  "package_changes": {},
+  "protected_file_count": 17,
+  "protected_files": [
+    {
+      "path": "D:\\HuaweiMoveData\\Users\\17861\\Desktop\\吃白饭的蓝色大肥鱼工作站\\week01_helpers\\.gitignore",
+      "unchanged": true,
+      "sha256_before": "74e1eae2123beea210439d30380b03c0b8d8cd10f5bd6fb7b4655cb57c319fa3",
+      "sha256_after": "74e1eae2123beea210439d30380b03c0b8d8cd10f5bd6fb7b4655cb57c319fa3"
+    },
+    {
+      "path": "D:\\HuaweiMoveData\\Users\\17861\\Desktop\\吃白饭的蓝色大肥鱼工作站\\week01_helpers\\example_usage.py",
+      "unchanged": true,
+      "sha256_before": "d7cfcd2d396a8fa541c84b28ae9c9a593f758cf20e5a6132116d43f6d7d72fd8",
+      "sha256_after": "d7cfcd2d396a8fa541c84b28ae9c9a593f758cf20e5a6132116d43f6d7d72fd8"
+    },
+    {
+      "path": "D:\\HuaweiMoveData\\Users\\17861\\Desktop\\吃白饭的蓝色大肥鱼工作站\\week01_helpers\\helpers.py",
+      "unchanged": true,
+      "sha256_before": "c3cbe6810f1b9bd0356022f60b507d0e45676f345b57421e32180ecb5130f5c7",
+      "sha256_after": "c3cbe6810f1b9bd0356022f60b507d0e45676f345b57421e32180ecb5130f5c7"
+    },
+    {
+      "path": "D:\\HuaweiMoveData\\Users\\17861\\Desktop\\吃白饭的蓝色大肥鱼工作站\\week01_helpers\\README.md",
+      "unchanged": true,
+      "sha256_before": "ab9e4c87cc7c274d1f5a13d452f065f538cd9eb6d7e085e18945f4168f56bb38",
+      "sha256_after": "ab9e4c87cc7c274d1f5a13d452f065f538cd9eb6d7e085e18945f4168f56bb38"
+    },
+    {
+      "path": "D:\\HuaweiMoveData\\Users\\17861\\Desktop\\吃白饭的蓝色大肥鱼工作站\\week01_helpers\\requirements.txt",
+      "unchanged": true,
+      "sha256_before": "8a4e6818f34f1513d364ecf2ca44caea24b8cdb2d2ba9db55f1a9a50b2f2391a",
+      "sha256_after": "8a4e6818f34f1513d364ecf2ca44caea24b8cdb2d2ba9db55f1a9a50b2f2391a"
+    },
+    {
+      "path": "D:\\HuaweiMoveData\\Users\\17861\\Desktop\\吃白饭的蓝色大肥鱼工作站\\week01_helpers\\test_helpers.py",
+      "unchanged": true,
+      "sha256_before": "7bdcc92f9c326d6d6aed524014fa1ccdfb717c67da11638b78d7cb97a88ef689",
+      "sha256_after": "7bdcc92f9c326d6d6aed524014fa1ccdfb717c67da11638b78d7cb97a88ef689"
+    },
+    {
+      "path": "D:\\HuaweiMoveData\\Users\\17861\\Desktop\\吃白饭的蓝色大肥鱼工作站\\week01_helpers\\验证.ps1",
+      "unchanged": true,
+      "sha256_before": "735fff78a1275f68348fd7ab5fed37b3a99971d1ba6203ed85fd1f2568f9ebc9",
+      "sha256_after": "735fff78a1275f68348fd7ab5fed37b3a99971d1ba6203ed85fd1f2568f9ebc9"
+    },
+    {
+      "path": "D:\\HuaweiMoveData\\Users\\17861\\Desktop\\吃白饭的蓝色大肥鱼工作站\\week01_helpers\\验证记录.md",
+      "unchanged": true,
+      "sha256_before": "9eff6a1b61f16b6fadf1a119b97f2e369afdf29fbe93d386cd141524b5f2262d",
+      "sha256_after": "9eff6a1b61f16b6fadf1a119b97f2e369afdf29fbe93d386cd141524b5f2262d"
+    },
+    {
+      "path": "D:\\HuaweiMoveData\\Users\\17861\\Desktop\\吃白饭的蓝色大肥鱼工作站\\week01_helpers\\outputs\\diagnostics.json",
+      "unchanged": true,
+      "sha256_before": "b213cfb2ceac2dd5459298870701b6cfd348d22a112941f115d2aa20a766083f",
+      "sha256_after": "b213cfb2ceac2dd5459298870701b6cfd348d22a112941f115d2aa20a766083f"
+    },
+    {
+      "path": "D:\\HuaweiMoveData\\Users\\17861\\Desktop\\吃白饭的蓝色大肥鱼工作站\\week01_helpers\\outputs\\evolution.pdf",
+      "unchanged": true,
+      "sha256_before": "9988f037551d5e97822ebce9d64846ff0c4a3bc6c29b9beadee954f83f9d3400",
+      "sha256_after": "9988f037551d5e97822ebce9d64846ff0c4a3bc6c29b9beadee954f83f9d3400"
+    },
+    {
+      "path": "D:\\HuaweiMoveData\\Users\\17861\\Desktop\\吃白饭的蓝色大肥鱼工作站\\week01_helpers\\outputs\\evolution.png",
+      "unchanged": true,
+      "sha256_before": "368e5ab520f74e6d1684db8d8a4e98f0351652964a8d24dfee83482d72e8f5e7",
+      "sha256_after": "368e5ab520f74e6d1684db8d8a4e98f0351652964a8d24dfee83482d72e8f5e7"
+    },
+    {
+      "path": "D:\\HuaweiMoveData\\Users\\17861\\Desktop\\吃白饭的蓝色大肥鱼工作站\\week01_helpers\\outputs\\gaussian.png",
+      "unchanged": true,
+      "sha256_before": "df8c5d5fdaf148dc1e9bd1690c5c14334a65b03c81f27b13dc1e27319b440cad",
+      "sha256_after": "df8c5d5fdaf148dc1e9bd1690c5c14334a65b03c81f27b13dc1e27319b440cad"
+    },
+    {
+      "path": "D:\\HuaweiMoveData\\Users\\17861\\Desktop\\硕士学习.docx",
+      "unchanged": true,
+      "sha256_before": "4903eec280ee3194ca245bfede9b14f872fd0a1e692711a1b3276db4eb6cc30e",
+      "sha256_after": "4903eec280ee3194ca245bfede9b14f872fd0a1e692711a1b3276db4eb6cc30e"
+    },
+    {
+      "path": "D:\\Master.s-work\\quantum-optics-notes\\.vscode\\settings.json",
+      "unchanged": true,
+      "sha256_before": "b48be4a0808834c155006634c1f3e4c32f577ce9e52b30ee608372c4d89850cb",
+      "sha256_after": "b48be4a0808834c155006634c1f3e4c32f577ce9e52b30ee608372c4d89850cb"
+    },
+    {
+      "path": "C:\\Users\\17861\\.gitconfig",
+      "unchanged": true,
+      "sha256_before": "7a5066f73367ca61b1de05c7a38217a0ce3c8e4ea5f967f0597e0aca7eeca854",
+      "sha256_after": "7a5066f73367ca61b1de05c7a38217a0ce3c8e4ea5f967f0597e0aca7eeca854"
+    },
+    {
+      "path": "C:\\Users\\17861\\.condarc",
+      "unchanged": true,
+      "sha256_before": "4bc2af57f0ff3c16ad0f2ae3196a4ccc0228ef59b3d6ddc041852e96c34815bf",
+      "sha256_after": "4bc2af57f0ff3c16ad0f2ae3196a4ccc0228ef59b3d6ddc041852e96c34815bf"
+    },
+    {
+      "path": "D:\\Master.s-work\\Software-needed-for-master.s-work\\python\\main\\conda-meta\\history",
+      "unchanged": true,
+      "sha256_before": "f0eab9fe4574e9701ffe815f8a4b90f93e3285e8fd5d6a733b8c75ecfd9efe19",
+      "sha256_after": "f0eab9fe4574e9701ffe815f8a4b90f93e3285e8fd5d6a733b8c75ecfd9efe19"
+    }
+  ]
+}

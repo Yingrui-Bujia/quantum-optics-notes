@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.qutip/
+reports/local_*.json
+outputs/
+.vscode/
+reports/plot_review_*.png
+reports/guide_*.png
+reports/qa_dom_*.html
+*.tmp

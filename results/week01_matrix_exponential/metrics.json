@@ -1,0 +1,7 @@
+{
+  "expm_vs_analytic": 9.43689570931383e-16,
+  "ode_vs_expm": 1.875913868687462e-10,
+  "unitarity_error": 8.881784197001252e-16,
+  "ode_norm_drift": 3.7566039168268617e-10,
+  "elementwise_exp_is_different": true
+}

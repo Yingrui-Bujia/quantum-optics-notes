@@ -1,0 +1,5 @@
+# Reference ranges only. The existing main environment already satisfies these.
+numpy>=2.0,<3
+scipy>=1.14,<2
+matplotlib>=3.9,<4
+qutip>=5.1,<6

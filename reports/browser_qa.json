@@ -1,0 +1,30 @@
+[
+  {
+    "sectionCount": 12,
+    "anchorCount": 12,
+    "viewport": 1418,
+    "pageWidth": 1403,
+    "noHorizontalOverflow": true,
+    "searchFindsResults": true,
+    "emptyState": true,
+    "navigationRestores": true,
+    "darkMode": true,
+    "lightMode": true,
+    "ok": true,
+    "layout": "desktop"
+  },
+  {
+    "sectionCount": 12,
+    "anchorCount": 12,
+    "viewport": 578,
+    "pageWidth": 563,
+    "noHorizontalOverflow": true,
+    "searchFindsResults": true,
+    "emptyState": true,
+    "navigationRestores": true,
+    "darkMode": true,
+    "lightMode": true,
+    "ok": true,
+    "layout": "narrow"
+  }
+]

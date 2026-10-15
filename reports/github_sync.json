@@ -1,0 +1,20 @@
+{
+  "status": "verified",
+  "date": "2026-10-15",
+  "repository": "Yingrui-Bujia/quantum-optics-notes",
+  "url": "https://github.com/Yingrui-Bujia/quantum-optics-notes",
+  "visibility": "public",
+  "branch": "main",
+  "method": "connected GitHub plugin Git Data API",
+  "preserved_initial_remote_commit": "69a9bb7ab1437ae3ca4203537a473d463f6fab65",
+  "original_local_commits": ["3d1d77b", "41ad11c"],
+  "local_history_branch": "local-history/pre-github",
+  "verification": [
+    "binary blob SHAs equal the original Git blob SHAs",
+    "complete remote tree SHA equals the local snapshot tree SHA",
+    "remote branch head re-read after publication",
+    "remote tracked path, mode, type, and SHA inventory equals local inventory"
+  ],
+  "final_verification_location": "outputs/github-sync/final_verification.json",
+  "note": "A commit cannot contain its own resulting SHA; the final commit/tree identifiers are recorded in the local verification file after publication."
+}

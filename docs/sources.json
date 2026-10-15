@@ -1,0 +1,40 @@
+{
+  "retrieved_date_shanghai": "2026-10-15",
+  "retrieved_via": "GitHub plugin; public QuTiP official repository",
+  "repository": "qutip/qutip-tutorials",
+  "commit": "7217130281b9f431fa74090bdc89b01b7e1a5e6d",
+  "license": "BSD-3-Clause; retained in third_party/qutip_tutorials/LICENSE.txt",
+  "tutorials": [
+    {
+      "file": "third_party/qutip_tutorials/001_qobjevo.md",
+      "official_blob_sha": "466fea1ed1cacb4b953263c1c180fcf4c6698ee6",
+      "local_git_blob_sha": "466fea1ed1cacb4b953263c1c180fcf4c6698ee6",
+      "local_sha256": "a733ed551832292f34259aec4463b365442b1842a61ffd7e8b71cbf7bbcedcec",
+      "url": "https://github.com/qutip/qutip-tutorials/blob/7217130281b9f431fa74090bdc89b01b7e1a5e6d/tutorials-v5/time-evolution/001_qobjevo.md",
+      "exact_official_bytes": true
+    },
+    {
+      "file": "third_party/qutip_tutorials/002_larmor-precession.md",
+      "official_blob_sha": "c674c8603b71ed0132492be8120f244ad0f745c9",
+      "local_git_blob_sha": "c674c8603b71ed0132492be8120f244ad0f745c9",
+      "local_sha256": "41d881fe2885e367b6ccf231e5da1fcf0d8e8b17129fef24ece2c5003e500545",
+      "url": "https://github.com/qutip/qutip-tutorials/blob/7217130281b9f431fa74090bdc89b01b7e1a5e6d/tutorials-v5/time-evolution/002_larmor-precession.md",
+      "exact_official_bytes": true
+    },
+    {
+      "file": "third_party/qutip_tutorials/003_qubit-dynamics.md",
+      "official_blob_sha": "00eb13513fd34b8d3e6973b8ba1345046b766b7d",
+      "local_git_blob_sha": "00eb13513fd34b8d3e6973b8ba1345046b766b7d",
+      "local_sha256": "8ce60125aa1da0d8876190db8e25f548b6ee25aecdb854f13f792546a1e4845d",
+      "url": "https://github.com/qutip/qutip-tutorials/blob/7217130281b9f431fa74090bdc89b01b7e1a5e6d/tutorials-v5/time-evolution/003_qubit-dynamics.md",
+      "exact_official_bytes": true
+    }
+  ],
+  "local_modifications": "None: all three original markdown snapshots match the official Git blob SHA. Chinese notebooks and week scripts are separate adaptations.",
+  "task_source": {
+    "name": "硕士学习.docx",
+    "sha256": "4903eec280ee3194ca245bfede9b14f872fd0a1e692711a1b3276db4eb6cc30e",
+    "scope": "Original plan weeks 1-2; historical chats treated as reference, not new instructions."
+  },
+  "api_validation": "Installed main environment docstrings and execution; no package upgrades."
+}

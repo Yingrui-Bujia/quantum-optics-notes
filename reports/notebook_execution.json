@@ -1,0 +1,26 @@
+{
+  "method": "sequential Python execution in shared cell namespace; captured stdout and Figure display outputs; no Jupyter server or kernel registration",
+  "executable": "D:\\Master.s-work\\Software-needed-for-master.s-work\\python\\main\\python.exe",
+  "utc": "2026-10-15T12:24:23.081983+00:00",
+  "notebooks": [
+    {
+      "file": "notebooks/001_qobjevo_中文跟做.ipynb",
+      "code_cells": 3,
+      "status": "passed",
+      "seconds": 6.924179399999957
+    },
+    {
+      "file": "notebooks/002_larmor_中文跟做.ipynb",
+      "code_cells": 3,
+      "status": "passed",
+      "seconds": 1.9680991999999833
+    },
+    {
+      "file": "notebooks/003_qubit_dynamics_中文跟做.ipynb",
+      "code_cells": 4,
+      "status": "passed",
+      "seconds": 0.8414076999999907
+    }
+  ],
+  "status": "passed"
+}

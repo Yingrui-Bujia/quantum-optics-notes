@@ -1,0 +1,44 @@
+{
+  "method": "complete Python code fences executed in source order; notebook inline magic removed; documentation-only type signature skipped; Agg backend",
+  "executable": "D:\\Master.s-work\\Software-needed-for-master.s-work\\python\\main\\python.exe",
+  "status": "passed",
+  "tutorials": [
+    {
+      "source": "third_party/qutip_tutorials/001_qobjevo.md",
+      "python_blocks_executed": 26,
+      "documentation_blocks_skipped": [
+        {
+          "block": 3,
+          "reason": "documentation-only function signature"
+        }
+      ],
+      "warnings": [
+        "The signature f(t, args) is deprecated and will be removed in QuTiP 5.5. Please update your function to the pythonic signature f(t, **kwargs) to maintain compatibility.",
+        "`cython`, `setuptools` and `filelock` are required for compilation of string coefficents. Falling back on `eval`."
+      ],
+      "status": "passed",
+      "seconds": 5.145511199999987
+    },
+    {
+      "source": "third_party/qutip_tutorials/002_larmor-precession.md",
+      "python_blocks_executed": 10,
+      "documentation_blocks_skipped": [],
+      "warnings": [
+        "FigureCanvasAgg is non-interactive, and thus cannot be shown",
+        "The signature f(t, args) is deprecated and will be removed in QuTiP 5.5. Please update your function to the pythonic signature f(t, **kwargs) to maintain compatibility."
+      ],
+      "status": "passed",
+      "seconds": 0.528234100000077
+    },
+    {
+      "source": "third_party/qutip_tutorials/003_qubit-dynamics.md",
+      "python_blocks_executed": 11,
+      "documentation_blocks_skipped": [],
+      "warnings": [
+        "FigureCanvasAgg is non-interactive, and thus cannot be shown"
+      ],
+      "status": "passed",
+      "seconds": 0.19068079999999554
+    }
+  ]
+}

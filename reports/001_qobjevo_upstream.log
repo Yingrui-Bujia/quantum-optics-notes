@@ -1,0 +1,45 @@
+'state':
+Quantum object: dims=[[4], [4]], shape=(4, 4), type='oper', dtype=CSR, isherm=True
+Qobj data =
+[[0. 0. 0. 0.]
+ [0. 0. 0. 0.]
+ [0. 0. 1. 0.]
+ [0. 0. 0. 0.]]
+'state':
+Quantum object: dims=[[4], [4]], shape=(4, 4), type='oper', dtype=CSR, isherm=True
+Qobj data =
+[[0. 0. 0. 0.]
+ [0. 0. 0. 0.]
+ [0. 0. 1. 0.]
+ [0. 0. 0. 0.]]
+
+QuTiP: Quantum Toolbox in Python
+================================
+Copyright (c) QuTiP team 2011 and later.
+Current admin team: Alexander Pitchford, Nathan Shammah, Shahnawaz Ahmed, Neill Lambert, Eric Giguère, Boxi Li, Simon Cross, Asier Galicia, Paul Menczel, and Patrick Hopf.
+Board members: Daniel Burgarth, Robert Johansson, Anton F. Kockum, Franco Nori and Will Zeng.
+Original developers: R. J. Johansson & P. D. Nation.
+Previous lead developers: Chris Granade & A. Grimsmo.
+Currently developed through wide collaboration. See https://github.com/qutip for details.
+
+QuTiP Version:      5.3.1
+Numpy Version:      2.5.3
+Scipy Version:      1.18.1
+Cython Version:     None
+Matplotlib Version: 3.11.2
+Python Version:     3.12.14
+Number of CPUs:     16
+BLAS Info:          mkl-sdl
+INTEL MKL Ext:      None
+Platform Info:      Windows (AMD64)
+Installation path:  D:\Master.s-work\Software-needed-for-master.s-work\python\main\Lib\site-packages\qutip
+
+Installed QuTiP family packages
+-------------------------------
+
+No QuTiP family packages installed.
+
+================================================================================
+Please cite QuTiP in your publication.
+================================================================================
+For your convenience a bibtex reference can be easily generated using `qutip.cite()`

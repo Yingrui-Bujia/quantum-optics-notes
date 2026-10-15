@@ -1,0 +1,44 @@
+{
+  "001": {
+    "function_vs_string": 0.0,
+    "array_interpolation_error": 1.771731650279662e-10,
+    "argument_override_error": 0.0,
+    "argument_restored_error": 0.0,
+    "algebra_error": 0.0,
+    "liouvillian_error": 0.0
+  },
+  "002": {
+    "constant_analytic_error": 2.1649348980190553e-15,
+    "constant_bloch_radius_error": 2.886579864025407e-15,
+    "linear_analytic_error": 4.9960036108132044e-15,
+    "linear_bloch_radius_error": 4.218847493575595e-15,
+    "periodic_analytic_error": 8.43769498715119e-15,
+    "periodic_bloch_radius_error": 1.7763568394002505e-15
+  },
+  "003": {
+    "exact_analytic_error": 1.5265566588595902e-15,
+    "upstream_approximation_error": 0.03857617847537986,
+    "density": {
+      "trace_error": 8.881784197001252e-16,
+      "hermiticity_error": 0.0,
+      "minimum_eigenvalue": 0.0
+    },
+    "unitary_density": {
+      "trace_error": 1.3322676295501878e-15,
+      "hermiticity_error": 0.0,
+      "minimum_eigenvalue": -4.440892098500626e-16
+    },
+    "dephasing_density": {
+      "trace_error": 7.771561172376096e-16,
+      "hermiticity_error": 0.0,
+      "minimum_eigenvalue": 0.0
+    },
+    "relaxation_density": {
+      "trace_error": 1.1102230246251565e-15,
+      "hermiticity_error": 0.0,
+      "minimum_eigenvalue": 0.0
+    },
+    "T1_population_error": 3.3306690738754696e-16,
+    "T2_coherence_error": 3.3306690738754696e-16
+  }
+}
