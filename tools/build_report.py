@@ -133,6 +133,7 @@ def build_html():
 程序与参考答案已验证。闭卷得分、个人手推照片和独立复写仍需你自己完成；两份周小结保留了填写位置。把当天没懂的公式、报错与尝试过的方法记下来，比只勾“完成”更有用。
 ''')
         if key=='report':
+            body=body.replace('href="../docs/github_status.md"','href="#git"')
             body+=''.join(f'<figure><img src="{embedded_image(ROOT/"results"/name)}" alt="{html.escape(caption)}"><figcaption>{caption}</figcaption></figure>' for name,caption in figures)
         sections.append(f'<section id="{key}" aria-label="{title}">{body}</section>')
     document='''<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>量子光学 · 前两周学习入口</title>
